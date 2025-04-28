@@ -5,7 +5,6 @@
 [submodule "sourcepawn"]
 	path = sourcepawn
 	url = https://github.com/FestClub/sourcepawn
-	branch = debug_api_symbols
 	shallow = true
 [submodule "hl2sdk-manifests"]
 	path = hl2sdk-manifests
